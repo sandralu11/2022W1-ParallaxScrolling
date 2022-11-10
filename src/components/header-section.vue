@@ -20,7 +20,7 @@ export default {
 			</div>
 		</div>
 		<div>
-				<img alt="logo" class="logo" src="../assets/img/hex-logo 1.png"/>
+				<img alt="logo" class="logo" src="../assets/img/hex-logo1.png"/>
 		</div>
 
 			<ul class="nav">

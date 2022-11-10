@@ -5,7 +5,7 @@
 <template>
 <div class="wrap">
     <div class="studio">
-        <img src="../assets/img/jira 1.png" alt="">
+        <img src="../assets/img/jira1.png" alt="">
         <img src="../assets/img/confluence.png" alt="">
         <img src="../assets/img/miro.png" alt="">
         <img src="../assets/img/dot.png" alt="">

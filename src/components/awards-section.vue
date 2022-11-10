@@ -9,7 +9,7 @@
     </div>
     <div class="awards">
         <div class="item" data-aos="fade-down"  data-aos-delay="900">
-            <img src="../assets/img/group award.png" alt="">
+            <img src="../assets/img/groupaward.png" alt="">
             <p>每個關卡各 1 組</p>
         </div>
         <div class="item" data-aos="fade-down"  data-aos-delay="600">
