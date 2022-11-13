@@ -4,8 +4,8 @@
 
 <template>
 <div class="wrap">
-    <div class="title">
-        <h1>賽程時間</h1>
+    <div class="title" id="time-scroll">
+        <h1 >賽程時間</h1>
     </div>
     <div class="scroll-box">
         <div class="time">
@@ -52,6 +52,9 @@
 
 <style lang="scss" scoped>
 .wrap{
+    #time-scroll{
+        scroll-margin-top:70px;
+    }
     .scroll-box{
         overflow-x: auto;
         display: flex;

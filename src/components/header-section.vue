@@ -22,12 +22,10 @@ export default {
 		<div>
 				<img alt="logo" class="logo" src="../assets/img/hex-logo1.png"/>
 		</div>
-
 			<ul class="nav">
-					<li><a href="#">關卡任務</a></li>
-					<li><a href="#">競賽說明</a></li>
+					<li><a href="#school-title">關卡任務</a></li>
+					<li><a href="#time-scroll">競賽說明</a></li>
 			</ul>
-
 		<div>
 			<button class="red-btn">立即報名</button>
 		</div>

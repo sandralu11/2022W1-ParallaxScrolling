@@ -4,7 +4,7 @@
 
 <template>
 <div class="wrap">
-    <div class="school-title"  data-aos="fade-up">
+    <div class="school-title" id="school-title" data-aos="fade-up">
         <img src="../assets/img/Hexschool.png" alt="">
     </div>
     <div class="sub-title">
@@ -93,6 +93,7 @@
 }
 .school-title{
     display: flex;
+    scroll-margin-top:70px;
     img{
         max-width: 600px;
         width: 100%;
