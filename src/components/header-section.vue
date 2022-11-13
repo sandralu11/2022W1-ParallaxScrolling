@@ -19,9 +19,9 @@ export default {
 				<i class='bx bx-menu' v-else></i>
 			</div>
 		</div>
-		<div>
-				<img alt="logo" class="logo" src="../assets/img/hex-logo1.png"/>
-		</div>
+		<a href="#">
+			<img alt="logo" class="logo" src="../assets/img/hex-logo1.png"/>
+		</a>
 			<ul class="nav">
 					<li><a href="#school-title">關卡任務</a></li>
 					<li><a href="#time-scroll">競賽說明</a></li>
